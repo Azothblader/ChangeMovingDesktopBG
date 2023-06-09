@@ -1,0 +1,16 @@
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\Console_ChangeBG.exe
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\Console_ChangeBG.deps.json
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\Console_ChangeBG.runtimeconfig.json
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\Console_ChangeBG.runtimeconfig.dev.json
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\Console_ChangeBG.dll
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\ref\Console_ChangeBG.dll
+C:\Users\4042\source\repos\Console_ChangeBG\bin\Debug\net5.0\Console_ChangeBG.pdb
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.csproj.AssemblyReference.cache
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.AssemblyInfoInputs.cache
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.AssemblyInfo.cs
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.csproj.CoreCompileInputs.cache
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.dll
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\ref\Console_ChangeBG.dll
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.pdb
+C:\Users\4042\source\repos\Console_ChangeBG\obj\Debug\net5.0\Console_ChangeBG.genruntimeconfig.cache
